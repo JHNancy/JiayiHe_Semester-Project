@@ -79,6 +79,10 @@ h3,
 p {
   font-size: 1.4em;
   font-family: 'Cormorant Upright';
+  color: #ccbea3;
+  text-align: center;
+  text-decoration: underline;
+  cursor:pointer;
 }  
 
 .bar ul{
