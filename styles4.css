@@ -79,6 +79,12 @@ h3,
 p {
   font-size: 1.4em;
   font-family: 'Cormorant Upright';
+  color: #f9f0eacb;
+}
+
+.box p {
+  font-size: 1.4em;
+  font-family: 'Cormorant Upright';
   color: #ccbea3;
   text-align: center;
   text-decoration: underline;
@@ -152,6 +158,7 @@ nav a:hover {
   text-align: end;
   padding-right:70px;
   margin-top:-2.3em;
+  color:black;
 }
 
 .footer {
